@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "tim1.h": "c",
+        "shareware.h": "c",
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "stm32f4xx_hal_rcc.h": "c",
+        "freertos.h": "c",
+        "portable.h": "c",
+        "portmacro.h": "c",
+        "cmsis_os.h": "c",
+        "typeinfo": "c"
+    },
+    "files.encoding": "gb2312"
+}
